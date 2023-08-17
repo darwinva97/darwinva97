@@ -1,7 +1,7 @@
 
 <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/bouncercat.png?raw=true">
   
-# Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+# Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 <p align="left"> 
  <img src="https://img.shields.io/github/followers/darwinva97?color=2396ED&label=Followers" alt="darwinva97" />  
  <img src="https://img.shields.io/github/stars/darwinva97?style=flat&color=2396ED" />  
@@ -9,7 +9,7 @@
 
 [![Portfolio/Website](https://img.shields.io/badge/Portfolio/Website-ea580c?style=for-the-badge&labelColor=101010)](https://darwinva.vercel.app) 
 
----
+<br/>
 
 <p>
 My Name is Darwin Stalin Vilcachagua Ayala.  
@@ -17,9 +17,8 @@ I'm a Cloud Engineer & MERN Developer FullStack.
 Typescript & AWS lover.
 </p>
 
----
 
-# Technologies
+## Technologies
 
 <a href="#" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
 <a href="#" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -37,9 +36,11 @@ Typescript & AWS lover.
 
 ---
 
-# Stats
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darwinva97&theme=onedark)](https://github.com/darwinva97/github-profile-trophy)
+
+## Stats
 
 ![darwinva97 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darwinva97&theme=solarized_dark)
 ![darwinva97 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darwinva97&theme=solarized_dark)
